@@ -10,3 +10,4 @@ int main(){
  printf("%i",office);
  return 0;
 }
+
